@@ -37,3 +37,6 @@ A machine learning model, such as a Linear Regression model, is chosen and train
 
 ## Step 4 – Performance Evaluation:
 The trained model is evaluated using the test dataset to assess its predictive performance. Common regression metrics, such as Mean Squared Error (MSE) and R-squared value, are computed. These metrics quantify how well the model generalizes to new, unseen data. Visualization techniques, like scatter plots, may also be employed to compare actual vs. predicted values and gain insights into the model's behavior. This step is crucial for determining the effectiveness and reliability of the chosen machine learning model.
+
+## Overall Feedback:
+Your assignment covers all needed sections. Well done! I especially appreciated you used shap library. 
